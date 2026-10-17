@@ -1,0 +1,6 @@
+{
+  "name": "Composio",
+  "description": "prricode — Concept in. Running product out. Autonomous AI coding agent in your terminal with EARS specifications, gated builds, adversarial verification, and acceptance dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
